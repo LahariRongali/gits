@@ -1,0 +1,9 @@
+Git: is a version control system.
+
+GIT CONCEPTS:
+1.Remote repository like bigbucket.
+Repo is just like  project folder/package.
+Git hub is one of the example of remote repository for hosting(storing) service.
+2.Local Repository
+3.staging area
+4.Working directory:
